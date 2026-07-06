@@ -20,6 +20,13 @@ pools = [
     "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml",
     "https://raw.githubusercontent.com/PuddinCat/BestClash/refs/heads/main/proxies.yaml",
     "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/clashnode.yaml",
+    "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+    "https://github.com/PuddinCat/BestClash/blob/main/proxies.yaml",
+    "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml",
+    "https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml",
+    "https://raw.githubusercontent.com/xiaoji235/airport-free/main/clash/clashnodecc.txt",
+    "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/clashnode.yam",
 ]
 
 # 测试分组大小
